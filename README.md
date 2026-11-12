@@ -1,4 +1,6 @@
-<h1 align="center">🦥 LazyBrady</h1>
+<p align="center"><img src="logo-lazybrady.png" width="112" alt="Logo LazyBrady, un paresseux dans une loupe"></p>
+
+<h1 align="center">LazyBrady</h1>
 
 <p align="center"><strong>Une app macOS pour chercher des offres et suivre ses candidatures en France.</strong></p>
 
