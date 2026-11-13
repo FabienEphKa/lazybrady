@@ -10,6 +10,8 @@ LazyBrady est née d’un besoin personnel : retrouver au même endroit les offr
 
 J’ai souvent la flemme, d’où le *Lazy*. J’ai ajouté *Brady* en clin d’œil à *Bradypus*, le genre des paresseux à trois doigts. Comme quoi, la flemme peut aussi donner naissance à une app.
 
+**Un portage Windows est prévu.**
+
 ## Ce que fait LazyBrady
 
 - **Recherche d’offres** selon les critères définis dans l’app, notamment le métier, la zone géographique, le type de contrat et la date de publication.
